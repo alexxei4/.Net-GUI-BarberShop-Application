@@ -1,0 +1,10 @@
+C:\Users\alexe\Documents\Csharp\Lab2CSharp\OugrinioukAlexei Lab2\LabTwoB\LabTwoB\bin\Debug\LabTwoB.exe.config
+C:\Users\alexe\Documents\Csharp\Lab2CSharp\OugrinioukAlexei Lab2\LabTwoB\LabTwoB\bin\Debug\LabTwoB.exe
+C:\Users\alexe\Documents\Csharp\Lab2CSharp\OugrinioukAlexei Lab2\LabTwoB\LabTwoB\bin\Debug\LabTwoB.pdb
+C:\Users\alexe\Documents\Csharp\Lab2CSharp\OugrinioukAlexei Lab2\LabTwoB\LabTwoB\obj\Debug\LabTwoB.csprojAssemblyReference.cache
+C:\Users\alexe\Documents\Csharp\Lab2CSharp\OugrinioukAlexei Lab2\LabTwoB\LabTwoB\obj\Debug\LabTwoB.Properties.Resources.resources
+C:\Users\alexe\Documents\Csharp\Lab2CSharp\OugrinioukAlexei Lab2\LabTwoB\LabTwoB\obj\Debug\LabTwoB.csproj.GenerateResource.cache
+C:\Users\alexe\Documents\Csharp\Lab2CSharp\OugrinioukAlexei Lab2\LabTwoB\LabTwoB\obj\Debug\LabTwoB.csproj.CoreCompileInputs.cache
+C:\Users\alexe\Documents\Csharp\Lab2CSharp\OugrinioukAlexei Lab2\LabTwoB\LabTwoB\obj\Debug\LabTwoB.exe
+C:\Users\alexe\Documents\Csharp\Lab2CSharp\OugrinioukAlexei Lab2\LabTwoB\LabTwoB\obj\Debug\LabTwoB.pdb
+C:\Users\alexe\Documents\Csharp\Lab2CSharp\OugrinioukAlexei Lab2\LabTwoB\LabTwoB\obj\Debug\LabTwoB.Form1.resources
